@@ -38,8 +38,8 @@ The UI data table explicitly displays only the required assessment fields:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/sales-order-dashboard.git](https://github.com/YOUR_USERNAME/sales-order-dashboard.git)
-cd sales-order-dashboard
+git clone [https://github.com/kristybuilds/harrisons-assessment.git)
+cd harrisons-assessment
 ```
 
 ### 2. Set Up a Virtual Environment
