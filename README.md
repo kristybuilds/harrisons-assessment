@@ -38,7 +38,7 @@ The UI data table explicitly displays only the required assessment fields:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/kristybuilds/harrisons-assessment.git)
+git clone https://github.com/kristybuilds/harrisons-assessment.git
 cd harrisons-assessment
 ```
 
