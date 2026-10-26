@@ -41,3 +41,18 @@ The UI data table explicitly displays only the required assessment fields:
 git clone [https://github.com/YOUR_USERNAME/sales-order-dashboard.git](https://github.com/YOUR_USERNAME/sales-order-dashboard.git)
 cd sales-order-dashboard
 
+### 2. Set Up a Virtual Environment
+python -m venv venv
+source venv/bin/activate
+
+### 3. Install Dependencies
+pip install -r requirements.txt
+
+### 4. Configure Environment Variables
+Create a .env file in the root directory and add your assessment credentials:
+API_URL=your_provided_api_url_here
+API_KEY=your_provided_assessment_key_here
+
+### 5. Launch the Web Application
+streamlit run app.py
+
